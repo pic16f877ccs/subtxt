@@ -1,0 +1,4 @@
+subtxt
+Tool to hide text using image alpha channel.
+Description
+Encodes text into a transparent area of the image, leaving the alpha channel transparent. Supports PNG and TIFF types.
