@@ -1,6 +1,6 @@
 [package]
 name = "subtxt"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Karl Wulfert <pic16f877.ccs@emailn.de>"]
 readme = "README.md"
