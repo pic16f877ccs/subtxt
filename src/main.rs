@@ -70,7 +70,7 @@ impl TxtInImg {
             let Some(_) = self.rgba else {
                 return Err("unsupported color model".into());
             };
-            self.write_data(app, &path)?;
+            self.write_data(app, path)?;
         }
         Ok(())
     }
